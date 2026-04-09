@@ -1,4 +1,4 @@
-#  Hi, je suis Rikia 😊🌟
+#  🌟 Hi, je suis Rikia 😊
 
 🎯 Future Chef de Projet IA & Data
 💡 Consultante IA en transition vers le pilotage de projets IA
