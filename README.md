@@ -1,8 +1,8 @@
 #  🌟 Hi, je suis Rikia 😊
 
-🎯 Future Chef de Projet IA & Data
+🎯 Future Chef de Projet IA & Data | RAG & Agents IA
 💡 Consultante IA en transition vers le pilotage de projets IA
-📍 MBA Big Data & IA
+📍 MBA Big Data & IA en cours - en recherche de stage
 
 ---
 
@@ -13,6 +13,7 @@ Je m’intéresse particulièrement à la transformation des besoins métiers en
 
 👉 Mon objectif : piloter des projets IA de bout en bout (de l’idée à la mise en production)
 
+🚀 Projet principal : conception d’un assistant IA basé sur RAG et agent autonome (voir repo épinglé)
 ---
 
 ## 🧠 Compétences
@@ -50,6 +51,9 @@ Je m’intéresse particulièrement à la transformation des besoins métiers en
 ### 🔹 POC – Solution IA métier (confidentiel)
 
 * Développement d’un Proof of Concept pour répondre à un besoin métier
+  Conception d’un assistant intelligent basé sur une architecture RAG
+  Développement d’un agent capable d’orchestrer plusieurs sources
+  Implémentation d’un prototype fonctionnel (React + Flask)
 * Travail sur la structuration du problème, choix des modèles et logique produit
 * ⚠️ Projet volontairement non public (confidentialité)
 
