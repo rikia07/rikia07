@@ -1,6 +1,6 @@
 #  🌟 Hi, je suis Rikia 😊
 
-🎯 Future Chef de Projet IA & Data | RAG & Agents IA
+🎯 Transformation digitale | Pilotage de Projet IA & Data | RAG & Agents IA
 💡 Consultante IA en transition vers le pilotage de projets IA
 📍 MBA Big Data & IA en cours - en recherche de stage
 
